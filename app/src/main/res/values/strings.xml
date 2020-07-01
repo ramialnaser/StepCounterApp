@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edit">Edit</string>
+    <string name="weight_kg">Weight(KG):</string>
+    <string name="height_cm">Height(CM):</string>
+    <string name="email">Email:</string>
+    <string name="facebook_app_id">1225466497602846</string>
+    <string name="fb_login_protocol_scheme">fb1225466497602846</string>
+    <string name="today_s_total_steps">Today\'s total steps:</string>
+    <string name="distance_in_kilometers">Distance in kilometers:</string>
+    <string name="burned_calories">Burned calories:</string>
+    <string name="total_steps">Total steps:</string>
+
+</resources>
